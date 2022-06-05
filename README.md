@@ -1,3 +1,5 @@
+[![DeepSource](https://deepsource.io/gh/KOSASIH/Exonom.svg/?label=active+issues&show_trend=true&token=4QLN_2j0yz6FO2JdEZsjSt5E)](https://deepsource.io/gh/KOSASIH/Exonom/?ref=repository-badge)
+
 # Exonom
 
 Blockchain smart decentralized application powered by Binance Smart Chain technology system
