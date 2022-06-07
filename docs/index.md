@@ -17,4 +17,3 @@ The benefits of DApps include:
 # Mission
 
 A next-generation Blockchain platform that uses patent pending technology to execute transactions via a state of the art secure, scalable, and green protocol. Exonom is geared towards enterprise applications, boasting a transaction rate that matches Visa in scale.
-
