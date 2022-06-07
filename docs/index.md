@@ -10,8 +10,6 @@ The benefits of DApps include:
 
 -Trustless system: Users don't need to trust anyone else in order to use the DApp, because there's no central authority storing their information and verifying transactions
 
--Highly resistant to censorship: It's difficult for authorities to shut a DApp down because there's no central server they can target
-
 -No single point of failure: The data is stored on thousands of different computers rather than on a central server
 
 # Mission
